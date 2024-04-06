@@ -1,0 +1,2 @@
+
+     printf("birinci sayiyi giriniz:");
